@@ -5,9 +5,9 @@ But it is not a complete project</p>
 
 <h1>here ,some snap of the app view</h1>
 <p align="center">
-  <img src="andriod_project/sNAP/p1.png" width="350" title="app_interface">
-  <img src="andriod_project/sNAP/p2.png" width="350" alt="app_interface">
-   <img src="andriod_project/sNAP/p3.png" width="350" title="app_interface">
-   <img src="andriod_project/sNAP/p4.png" width="350" title="app_interface">
-   <img src="andriod_project/sNAP/p5.png" width="350" title="app_interfacet">
+  <img src="sNAP/p1.png" width="350" title="app_interface">
+  <img src="sNAP/p2.png" width="350" alt="app_interface">
+   <img src="sNAP/p3.png" width="350" title="app_interface">
+   <img src="sNAP/p4.png" width="350" title="app_interface">
+   <img src="sNAP/p5.png" width="350" title="app_interfacet">
 </p>

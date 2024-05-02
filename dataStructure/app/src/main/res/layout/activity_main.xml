@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#CECECE">
+    <!-- data_structure_headline.xml -->
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/textViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data Structure"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:id="@+id/btnArray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Array"
+        android:background="#403333"
+        android:padding="22dp"/>
+
+    <Button
+        android:id="@+id/btnStack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#403333"
+        android:padding="22dp"
+        android:text="Stack" />
+
+    <Button
+        android:id="@+id/btnQueue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Queue"
+        android:background="#403333"
+        android:padding="22dp"/>
+    <!-- Add similar buttons for Queue, LinkedList, etc. -->
+
+</LinearLayout>

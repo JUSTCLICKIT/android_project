@@ -1,0 +1,51 @@
+<!-- activity_array_operation.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Input field for array operations -->
+    <EditText
+        android:id="@+id/editTextIndex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Index" />
+
+    <EditText
+        android:id="@+id/editTextElement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Element" />
+
+    <!-- Button to insert an element into the array -->
+    <Button
+        android:id="@+id/btnInsert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Insert Element" />
+
+    <!-- Button to show the array -->
+    <Button
+        android:id="@+id/btnShow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Array" />
+
+    <!-- Button to update an element in the array -->
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Element" />
+
+    <!-- Button to delete an element from the array -->
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Element" />
+
+</LinearLayout>
